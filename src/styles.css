@@ -1,0 +1,12 @@
+.square {
+  height: 100px;
+  width: 100px;
+  border: none;
+}
+
+.dark {
+  background-color: #a0a0ff;
+}
+.light {
+  background-color: #ffffff;
+}
