@@ -1,7 +1,11 @@
+.grid {
+  display: grid;
+}
+
 .square {
   height: 100px;
   width: 100px;
-  border: none;
+  border: 0px;
 }
 
 .dark {
